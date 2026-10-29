@@ -1,0 +1,214 @@
+{
+  "version": 1,
+  "login": "oulan1",
+  "seed": "#05040D",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hello World, я",
+    "name": "oulan",
+    "subtitle": "Разрабатываю альтернативные утилиты и сервисы с префиксом оu-. Своя экосистема.",
+    "typing": true,
+    "avatarShape": "soft",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Russia, Orenburg"
+      },
+      {
+        "icon": "code",
+        "label": "С# · Java · Kotlin · Python · Vanilla Web"
+      }
+    ]
+  },
+  "about": {
+    "title": "Обо мне",
+    "items": [
+      {
+        "icon": "verified",
+        "label": "Founder of ouForge"
+      },
+      {
+        "icon": "monitoring",
+        "label": "Не стою на месте"
+      },
+      {
+        "icon": "school",
+        "label": "Студент"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Стек",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:html5",
+            "label": "HTML"
+          },
+          {
+            "icon": "brand:css",
+            "label": "CSS"
+          },
+          {
+            "icon": "brand:nodedotjs",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:dotnet",
+            "label": "C#"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:android",
+            "label": "Java"
+          },
+          {
+            "icon": "brand:kotlin",
+            "label": "Kotlin"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "brand:pinterest",
+            "label": "Pinterest"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "oulan",
+      "ouVPN",
+      "ouMusic",
+      "ouGPT",
+      "Fragment",
+      "Translator"
+    ],
+    "overrides": {
+      "ouVPN": {
+        "icon": "language",
+        "text": "#FreeInternet."
+      },
+      "oulan": {
+        "text": "Сайт-портфолио.\nНикак не могу доделать.",
+        "icon": "trophy"
+      },
+      "ouMusic": {
+        "text": "🎃 Активно развивающийся сервис музыки.\nБез рекламы. Большой функционал."
+      },
+      "ouGPT": {
+        "icon": "psychology",
+        "text": "ouGPT V1 на основе опенроутера."
+      },
+      "Fragment": {
+        "icon": "sports_esports",
+        "text": "Игровой лаунчер для вашего пк.\nПока проект заброшен, но это не значит что ему конец."
+      },
+      "Translator": {
+        "icon": "translate",
+        "text": "Забавный переводчик на выдуманные языки."
+      }
+    },
+    "empty": "Описания пока нет.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "Активность на GitHub",
+    "stars": "Звёзд получено",
+    "contributions": "Вкладов за год",
+    "repos": "Публичных репо",
+    "followers": "Подписчиков",
+    "calendar": "Последние 21 день",
+    "weekdays": "ВПВСЧПС",
+    "languages": "Языки в моих репозиториях",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Серия",
+    "current": "Текущая серия",
+    "longest": "Рекорд за год",
+    "days": "дн."
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:steam",
+        "url": "https://steamcommunity.com/id/oulan1/"
+      },
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/oulan1"
+      },
+      {
+        "icon": "brand:tiktok",
+        "url": "https://www.tiktok.com/@MS4wLjABAAAAX6zAjxRmV8ULrYO_F3HtBE4aSXX1E9Vey1hdhsswTRFhKotDGnubSEXMOuDbcK6T?"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/oulan1"
+      },
+      {
+        "icon": "brand:youtube",
+        "url": "https://youtube.com/@oulangg?si=jmbYQ85KO2AsV3a3"
+      }
+    ],
+    "variant": "chip",
+    "fill": "filled",
+    "card": true,
+    "shape": "soft"
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "Мой сайт",
+        "url": "https://oulan1.github.io/oulan/",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "Все репозитории",
+        "url": "",
+        "style": "tonal"
+      }
+    ],
+    "card": false
+  }
+}
