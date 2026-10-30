@@ -22,5 +22,6 @@
 
 <a href="https://oulan1.github.io/oulan/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="Мой сайт"></picture></a>&nbsp;&nbsp;<a href="https://github.com/oulan1?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="Все репозитории"></picture></a>
 
+<a href="https://metawka.github.io/expressive-profile/?from=oulan1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
 </div>
