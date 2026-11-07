@@ -1,25 +1,25 @@
 {
- "key": "f40d3ee3",
+ "key": "b629073d",
  "stars": 5,
- "contributions": 409,
+ "contributions": 412,
  "repos": 26,
  "followers": 1,
  "languages": [
   [
    "HTML",
-   842329
+   841701
   ],
   [
    "JavaScript",
-   538478
+   549210
+  ],
+  [
+   "CSS",
+   134075
   ],
   [
    "Python",
    127520
-  ],
-  [
-   "CSS",
-   122969
   ],
   [
    "Java",
@@ -141,15 +141,15 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 3,
     "day": 7,
     "today": true
    }
   ]
  ],
  "streak": {
-  "current": 9,
-  "longest": 9
+  "current": 10,
+  "longest": 10
  },
  "pins": [
   {
