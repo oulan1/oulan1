@@ -1,8 +1,8 @@
 {
- "key": "871a3093",
+ "key": "5ff8921b",
  "stars": 5,
- "contributions": 450,
- "repos": 26,
+ "contributions": 435,
+ "repos": 25,
  "followers": 1,
  "languages": [
   [
@@ -15,7 +15,7 @@
   ],
   [
    "Python",
-   191955
+   162848
   ],
   [
    "CSS",
@@ -123,17 +123,21 @@
    {
     "c": 14,
     "day": 10,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 11,
     "today": true
    },
-   null,
    null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 13,
-  "longest": 13
+  "current": 14,
+  "longest": 14
  },
  "pins": [
   {
@@ -262,15 +266,6 @@
    "fork": false,
    "stars": 0,
    "language": "C#",
-   "topics": []
-  },
-  {
-   "name": "ouVPN_V2",
-   "url": "https://github.com/oulan1/ouVPN_V2",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Python",
    "topics": []
   },
   {
