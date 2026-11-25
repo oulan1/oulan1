@@ -1,17 +1,17 @@
 {
- "key": "8af380d1",
+ "key": "a1247f12",
  "stars": 5,
- "contributions": 566,
- "repos": 27,
+ "contributions": 586,
+ "repos": 28,
  "followers": 1,
  "languages": [
   [
    "HTML",
-   889342
+   901914
   ],
   [
    "JavaScript",
-   702938
+   713082
   ],
   [
    "Python",
@@ -19,7 +19,7 @@
   ],
   [
    "CSS",
-   157696
+   160554
   ],
   [
    "Java",
@@ -126,7 +126,7 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 23,
     "day": 25,
     "today": true
    },
@@ -176,6 +176,15 @@
    "fork": false,
    "stars": 1,
    "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "ouchess",
+   "url": "https://github.com/oulan1/ouchess",
+   "text": "ouChess — Тактическая арена 1v1 (постоянный портал и PWA)",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
    "topics": []
   },
   {
